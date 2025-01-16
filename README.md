@@ -16,20 +16,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaDRF&hide_progress=true)
 
 💬 Languages:
-<p>JavaScript Typescript Python Java NodeJS ReactJS AngularJS HTML5 CSS3</p>
+<p>JavaScript Typescript Python Java NodeJS Nest ReactJS Angular HTML5 CSS3</p>
 
 📦 Database:
 <p>MySQL Postgres</p>
 
 🔧 Tools:
 <p>Git GitHub Visual Studio Code Insomnia Postman NPM Yarn</p>
-
-<h4>I’m currently learning and developing my skills on:</h4>
-<ul>
-  <li>Typescript and clean code, so that I can avoid errors and improve code understanding of my projects</li>
-  <li>Unitary, integration and end to end testing, again for avoid errors on my development process</li>
-  <li>Nest.js to improve code quality and modularization</li>
-</ul>
 
 
 
